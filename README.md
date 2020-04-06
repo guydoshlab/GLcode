@@ -1,4 +1,4 @@
-# GLcode
+# Yeastcode1
 GuydoshLab code for deep sequencing analysis
 
 
