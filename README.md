@@ -10,3 +10,5 @@ Prior to upload of this code, the Guydosh lab often provided code to other labs.
 This code under continual development and updates will be posted here.
 
 On November 4, 2023, a new version of this code was uploaded (version 1.13g). Note that the original version remains and is referred to as version 1.07bg.
+
+The runscripts folder contains wrapper functions for calling the core code.
